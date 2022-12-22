@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wJyNI9InSBxRgc9jPQH6F5iCdAbrMc+kB2PyGF3w6Czsf3QWKclrNzcIFlhgloUxi4rxZSiWLbB/aCYFu4JwcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\deaF\\source\\repos\\Boltachev_M_Lab1\\Boltachev_M_Lab1\\Boltachev_M_Lab1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\deaF\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

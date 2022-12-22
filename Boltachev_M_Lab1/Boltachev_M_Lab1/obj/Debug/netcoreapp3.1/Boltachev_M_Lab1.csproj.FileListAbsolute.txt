@@ -1,0 +1,14 @@
+C:\Users\deaF\source\repos\Boltachev_M_Lab1\Boltachev_M_Lab1\obj\Debug\netcoreapp3.1\Boltachev_M_Lab1.csproj.AssemblyReference.cache
+C:\Users\deaF\source\repos\Boltachev_M_Lab1\Boltachev_M_Lab1\obj\Debug\netcoreapp3.1\Boltachev_M_Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deaF\source\repos\Boltachev_M_Lab1\Boltachev_M_Lab1\obj\Debug\netcoreapp3.1\Boltachev_M_Lab1.AssemblyInfoInputs.cache
+C:\Users\deaF\source\repos\Boltachev_M_Lab1\Boltachev_M_Lab1\obj\Debug\netcoreapp3.1\Boltachev_M_Lab1.AssemblyInfo.cs
+C:\Users\deaF\source\repos\Boltachev_M_Lab1\Boltachev_M_Lab1\obj\Debug\netcoreapp3.1\Boltachev_M_Lab1.csproj.CoreCompileInputs.cache
+C:\Users\deaF\source\repos\Boltachev_M_Lab1\Boltachev_M_Lab1\bin\Debug\netcoreapp3.1\Boltachev_M_Lab1.exe
+C:\Users\deaF\source\repos\Boltachev_M_Lab1\Boltachev_M_Lab1\bin\Debug\netcoreapp3.1\Boltachev_M_Lab1.deps.json
+C:\Users\deaF\source\repos\Boltachev_M_Lab1\Boltachev_M_Lab1\bin\Debug\netcoreapp3.1\Boltachev_M_Lab1.runtimeconfig.json
+C:\Users\deaF\source\repos\Boltachev_M_Lab1\Boltachev_M_Lab1\bin\Debug\netcoreapp3.1\Boltachev_M_Lab1.runtimeconfig.dev.json
+C:\Users\deaF\source\repos\Boltachev_M_Lab1\Boltachev_M_Lab1\bin\Debug\netcoreapp3.1\Boltachev_M_Lab1.dll
+C:\Users\deaF\source\repos\Boltachev_M_Lab1\Boltachev_M_Lab1\bin\Debug\netcoreapp3.1\Boltachev_M_Lab1.pdb
+C:\Users\deaF\source\repos\Boltachev_M_Lab1\Boltachev_M_Lab1\obj\Debug\netcoreapp3.1\Boltachev_M_Lab1.dll
+C:\Users\deaF\source\repos\Boltachev_M_Lab1\Boltachev_M_Lab1\obj\Debug\netcoreapp3.1\Boltachev_M_Lab1.pdb
+C:\Users\deaF\source\repos\Boltachev_M_Lab1\Boltachev_M_Lab1\obj\Debug\netcoreapp3.1\Boltachev_M_Lab1.genruntimeconfig.cache
